@@ -1,0 +1,23 @@
+{
+    "name": "mediaboutique/todoist-api",
+    "description": "An expressive PHP wrapper for the Todoist API",
+    "keywords": [
+        "media boutique",
+        "todoist",
+        "api",
+        "php"
+    ],
+    "homepage": "https://github.com/mediaboutique/todoist-api",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "MediaBoutique\\Todoist\\Api\\" : "src/"
+        }
+    },
+    "extra": {
+    }
+}
