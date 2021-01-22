@@ -10,7 +10,7 @@
     "homepage": "https://github.com/mediaboutique/todoist-api",
     "license": "MIT",
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "guzzlehttp/guzzle": "^6.5"
     },
     "autoload": {
